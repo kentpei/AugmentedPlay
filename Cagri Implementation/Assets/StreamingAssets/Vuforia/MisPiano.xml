@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="the-legend-of-zelda-background-wip-need-helpmypoopgreen-on" size="3.000000 1.687657" />
+    <ImageTarget name="sdfasd" size="5.000000 3.341584" />
+    <ImageTarget name="TargetLog" size="5.000000 6.296296" />
+  </Tracking>
+</QCARConfig>
